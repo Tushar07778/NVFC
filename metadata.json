@@ -1,0 +1,7 @@
+{
+  "name": "Narmada Valley Football Club (NVFC) Official Website",
+  "description": "A professional-grade football club portal featuring match centers, squad management, official store, donation systems, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

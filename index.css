@@ -1,0 +1,21 @@
+/* Official NVFC Styles */
+:root {
+  --nv-blue: #0A1931;
+  --nv-yellow: #FFD700;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #071324;
+  color: white;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

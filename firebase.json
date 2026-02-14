@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "providers": {
+      "emailPassword": true,
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "NVFC Official",
+        "supportEmail": "tushar24@navgurukul.org"
+      }
+    }
+  }
+}
